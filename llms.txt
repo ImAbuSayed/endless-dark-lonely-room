@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-dark-lonely-room/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Endless Dark Lonely Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-dark-lonely-room/) |
+| **Get License** | [Commercial Licensing for Endless Dark Lonely Room](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-dark-lonely-room/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2950)
 
 ---
 
