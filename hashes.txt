@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Endless Dark Lonely Room
+
+This log tracks the cryptographic history and versioning for the song **Endless Dark Lonely Room** (endless-dark-lonely-room).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-10T18:27:47.258778 | `v1` | `3c6772e60ef986160f3c24f6096d9ef7cdf45ebfa861e6d31ce88a47c5bf0ca4` | `8a6a3aa3d1abd7581782d79f337765245ce4356d1a8863438292a872fe39f3b9` | `2026-06-10_endless-dark-lonely-room-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
